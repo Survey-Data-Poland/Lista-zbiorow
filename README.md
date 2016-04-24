@@ -1,5 +1,6 @@
 # Lista-zbiorow
 Lista potencjalnych zbiorów z badań częściowych
+
 Zbiory z  http://ads.org.pl
 
 * Diagnoza - OK
